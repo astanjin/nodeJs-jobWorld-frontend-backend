@@ -1,3 +1,3 @@
 #### jobWorld project - frontend & backend
 
-#### [JOBAPI](https://node-jobapi.onrender.com)
+#### [JOBAPI](https://nodejs-jobworld.onrender.com)
